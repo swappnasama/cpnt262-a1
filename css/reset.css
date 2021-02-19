@@ -1,0 +1,18 @@
+/*Reset styles*/
+body{
+  margin:0;
+  padding: 0;
+  
+}
+a,a:hover,a:visited,a:active{
+  text-decoration: none;
+  color:black;
+  display:block;
+  outline: none; 
+}
+ul{
+  list-style: none;
+}
+input, input:focus, textarea {
+  border:none;
+}
